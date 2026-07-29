@@ -56,7 +56,8 @@ Desenvolver aplicações modernas, criar soluções eficientes e contribuir com 
 ## 📫 Contato
 
 * GitHub: https://github.com/SEU_USUARIO
-* Discord: Bluzz
+* Discord: brightmystic8871
+
 
 ---
 
