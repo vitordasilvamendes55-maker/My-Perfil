@@ -1,5 +1,5 @@
 # My-Perfil
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=false&vCenter=true&width=500&lines=Olá%2C+eu+sou+Bluzz+👋;Software+Developer;Android+Developer;DevMapper+GTA+V" />
+# <img src="https://media.discordapp.net/attachments/1532050610625449995/1532104875360391239/Screenshot_20250702-135638.png?ex=6a6ba35b&is=6a6a51db&hm=4d254d49bc05cbae0d3de8fa500fb3ef35bffb0d8d50457cd079d90ecbc9256f&=&format=webp&quality=lossless&width=1156&height=520"👋;Software+Developer;Android+Developer;DevMapper+GTA+V" />
 
 ## 💻 Sobre mim
 
